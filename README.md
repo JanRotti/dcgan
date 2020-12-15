@@ -50,4 +50,6 @@ Generate samples
 $ python sample_model.py
 ```
 
+### Dataset
+Create "/data" and place your own dataset in it. The subfolder structure is irrelevant.
 
